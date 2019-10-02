@@ -7,3 +7,5 @@ As a green hand in data science, I just typed the codes from the original notebo
 
 The rearrangement is not done yet!
 The aim of this rearrangement is to provide a copy & paste library. I've already carried most of the comments from the book so you can leave the book alone. To learn the algorithms, please refer to the machine learning text books in Books folder. Next I'll delete some of the exercises and examples, rearrange the order of the functions, and categorize the functions based on their utilities.
+
+Updates resume closely
